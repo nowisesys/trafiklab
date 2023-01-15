@@ -1,0 +1,15 @@
+** Filer:
+
+    jour.json: innehåller alla linjer/hållplatser
+    stop.json: extra information om alla hållplatser
+
+** Relation:
+
+    jour.JourneyPatternPointNumber -> stop.StopPointNumber
+
+** Packages:
+
+    nowise.model:   JSON bindning
+    nowise.server:  HTTP server
+    nowise.remote:  Proxy mot trafiklab
+
