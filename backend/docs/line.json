@@ -1,0 +1,4547 @@
+{
+   "ExecutionTime" : 392,
+   "Message" : null,
+   "ResponseData" : {
+      "Result" : [
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "1",
+            "LineNumber" : "1"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "112",
+            "LineNumber" : "112"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "113",
+            "LineNumber" : "113"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "114",
+            "LineNumber" : "114"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "115",
+            "LineNumber" : "115"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "116",
+            "LineNumber" : "116"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "117",
+            "LineNumber" : "117"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "118",
+            "LineNumber" : "118"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "119",
+            "LineNumber" : "119"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "124",
+            "LineNumber" : "124"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "127",
+            "LineNumber" : "127"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2019-10-22 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2019-10-22 00:00:00.000",
+            "LineDesignation" : "129",
+            "LineNumber" : "129"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "133",
+            "LineNumber" : "133"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "134",
+            "LineNumber" : "134"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "135",
+            "LineNumber" : "135"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "141",
+            "LineNumber" : "141"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "142",
+            "LineNumber" : "142"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "143",
+            "LineNumber" : "143"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "144",
+            "LineNumber" : "144"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2015-12-14 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2015-12-14 00:00:00.000",
+            "LineDesignation" : "145",
+            "LineNumber" : "145"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "147",
+            "LineNumber" : "147"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "151",
+            "LineNumber" : "151"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "152",
+            "LineNumber" : "152"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "153",
+            "LineNumber" : "153"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2012-11-06 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2012-11-06 00:00:00.000",
+            "LineDesignation" : "154",
+            "LineNumber" : "154"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "155",
+            "LineNumber" : "155"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2015-12-08 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2015-12-08 00:00:00.000",
+            "LineDesignation" : "156",
+            "LineNumber" : "156"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "157",
+            "LineNumber" : "157"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "158",
+            "LineNumber" : "158"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2015-12-03 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2015-12-03 00:00:00.000",
+            "LineDesignation" : "159",
+            "LineNumber" : "159"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "160",
+            "LineNumber" : "160"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "161",
+            "LineNumber" : "161"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "163",
+            "LineNumber" : "163"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "164",
+            "LineNumber" : "164"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "165",
+            "LineNumber" : "165"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "167",
+            "LineNumber" : "167"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "168",
+            "LineNumber" : "168"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2020-06-12 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2020-06-12 00:00:00.000",
+            "LineDesignation" : "169",
+            "LineNumber" : "169"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "172",
+            "LineNumber" : "172"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "173",
+            "LineNumber" : "173"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2020-05-30 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2020-05-30 00:00:00.000",
+            "LineDesignation" : "175",
+            "LineNumber" : "175"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "176",
+            "LineNumber" : "176"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "177",
+            "LineNumber" : "177"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "178",
+            "LineNumber" : "178"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "179",
+            "LineNumber" : "179"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "180",
+            "LineNumber" : "180"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "181",
+            "LineNumber" : "181"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "182",
+            "LineNumber" : "182"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "183",
+            "LineNumber" : "183"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "184",
+            "LineNumber" : "184"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "185",
+            "LineNumber" : "185"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "188",
+            "LineNumber" : "188"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "190",
+            "LineNumber" : "190"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "191",
+            "LineNumber" : "191"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "192",
+            "LineNumber" : "192"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "193",
+            "LineNumber" : "193"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "194",
+            "LineNumber" : "194"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "195",
+            "LineNumber" : "195"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "196",
+            "LineNumber" : "196"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "197",
+            "LineNumber" : "197"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "198",
+            "LineNumber" : "198"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "199",
+            "LineNumber" : "199"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "2",
+            "LineNumber" : "2"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "201",
+            "LineNumber" : "201"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "202",
+            "LineNumber" : "202"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "203",
+            "LineNumber" : "203"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "204",
+            "LineNumber" : "204"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "205",
+            "LineNumber" : "205"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "206",
+            "LineNumber" : "206"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "207",
+            "LineNumber" : "207"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "211",
+            "LineNumber" : "211"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "212",
+            "LineNumber" : "212"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "221",
+            "LineNumber" : "221"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "222",
+            "LineNumber" : "222"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "225",
+            "LineNumber" : "225"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "233",
+            "LineNumber" : "233"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2015-06-19 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2015-06-19 00:00:00.000",
+            "LineDesignation" : "238",
+            "LineNumber" : "238"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2014-09-13 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2014-09-13 00:00:00.000",
+            "LineDesignation" : "250",
+            "LineNumber" : "250"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2010-03-29 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2010-03-29 00:00:00.000",
+            "LineDesignation" : "282",
+            "LineNumber" : "282"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "282",
+            "LineNumber" : "282"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "291",
+            "LineNumber" : "291"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "293",
+            "LineNumber" : "293"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "3",
+            "LineNumber" : "3"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "301",
+            "LineNumber" : "301"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "302",
+            "LineNumber" : "302"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "303",
+            "LineNumber" : "303"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "305",
+            "LineNumber" : "305"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "309",
+            "LineNumber" : "309"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "311",
+            "LineNumber" : "311"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "312",
+            "LineNumber" : "312"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "313",
+            "LineNumber" : "313"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "314",
+            "LineNumber" : "314"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "315",
+            "LineNumber" : "315"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "316",
+            "LineNumber" : "316"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "317",
+            "LineNumber" : "317"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2020-10-30 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2020-10-30 00:00:00.000",
+            "LineDesignation" : "318",
+            "LineNumber" : "318"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-04-29 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-04-29 00:00:00.000",
+            "LineDesignation" : "322",
+            "LineNumber" : "322"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "323",
+            "LineNumber" : "323"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "325",
+            "LineNumber" : "325"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2022-12-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2022-12-16 00:00:00.000",
+            "LineDesignation" : "333",
+            "LineNumber" : "333"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2019-06-06 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2019-06-06 00:00:00.000",
+            "LineDesignation" : "350",
+            "LineNumber" : "350"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "396",
+            "LineNumber" : "396"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "4",
+            "LineNumber" : "4"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "401",
+            "LineNumber" : "401"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "402",
+            "LineNumber" : "402"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "403",
+            "LineNumber" : "403"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "404",
+            "LineNumber" : "404"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2018-09-28 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2018-09-28 00:00:00.000",
+            "LineDesignation" : "405",
+            "LineNumber" : "405"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "409",
+            "LineNumber" : "409"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "410",
+            "LineNumber" : "410"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2014-12-14 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2014-12-14 00:00:00.000",
+            "LineDesignation" : "411",
+            "LineNumber" : "411"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "413",
+            "LineNumber" : "413"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "414",
+            "LineNumber" : "414"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2021-09-10 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2021-09-10 00:00:00.000",
+            "LineDesignation" : "416",
+            "LineNumber" : "416"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "417",
+            "LineNumber" : "417"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "418",
+            "LineNumber" : "418"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "420",
+            "LineNumber" : "420"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "421",
+            "LineNumber" : "421"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "422",
+            "LineNumber" : "422"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2014-12-14 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2014-12-14 00:00:00.000",
+            "LineDesignation" : "423",
+            "LineNumber" : "423"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "424",
+            "LineNumber" : "424"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "425",
+            "LineNumber" : "425"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "426",
+            "LineNumber" : "426"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "428",
+            "LineNumber" : "428"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "429",
+            "LineNumber" : "429"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "430",
+            "LineNumber" : "430"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "432",
+            "LineNumber" : "432"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "433",
+            "LineNumber" : "433"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "434",
+            "LineNumber" : "434"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "435",
+            "LineNumber" : "435"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "436",
+            "LineNumber" : "436"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "437",
+            "LineNumber" : "437"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "438",
+            "LineNumber" : "438"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "439",
+            "LineNumber" : "439"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "440",
+            "LineNumber" : "440"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2012-12-09 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2012-12-09 00:00:00.000",
+            "LineDesignation" : "441",
+            "LineNumber" : "441"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "442",
+            "LineNumber" : "442"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "443",
+            "LineNumber" : "443"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "444",
+            "LineNumber" : "444"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "445",
+            "LineNumber" : "445"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "446",
+            "LineNumber" : "446"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2012-12-09 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2012-12-09 00:00:00.000",
+            "LineDesignation" : "447",
+            "LineNumber" : "447"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "448",
+            "LineNumber" : "448"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "449",
+            "LineNumber" : "449"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-09-18 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-09-18 00:00:00.000",
+            "LineDesignation" : "452",
+            "LineNumber" : "452"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "452",
+            "LineNumber" : "452"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-09-18 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-09-18 00:00:00.000",
+            "LineDesignation" : "453",
+            "LineNumber" : "453"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "453",
+            "LineNumber" : "453"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2013-12-15 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2013-12-15 00:00:00.000",
+            "LineDesignation" : "454",
+            "LineNumber" : "454"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2014-12-14 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2014-12-14 00:00:00.000",
+            "LineDesignation" : "458",
+            "LineNumber" : "458"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "461",
+            "LineNumber" : "461"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "462",
+            "LineNumber" : "462"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "463",
+            "LineNumber" : "463"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "465",
+            "LineNumber" : "465"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-08-18 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-08-18 00:00:00.000",
+            "LineDesignation" : "467",
+            "LineNumber" : "467"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2014-12-14 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2014-12-14 00:00:00.000",
+            "LineDesignation" : "468",
+            "LineNumber" : "468"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "469",
+            "LineNumber" : "469"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "471",
+            "LineNumber" : "471"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "474",
+            "LineNumber" : "474"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2013-02-12 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2013-02-12 00:00:00.000",
+            "LineDesignation" : "480",
+            "LineNumber" : "480"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2018-09-28 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2018-09-28 00:00:00.000",
+            "LineDesignation" : "484",
+            "LineNumber" : "484"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2012-08-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2012-08-25 00:00:00.000",
+            "LineDesignation" : "489",
+            "LineNumber" : "489"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "491",
+            "LineNumber" : "491"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "492",
+            "LineNumber" : "492"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "496",
+            "LineNumber" : "496"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "497",
+            "LineNumber" : "497"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2015-06-19 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2015-06-19 00:00:00.000",
+            "LineDesignation" : "50",
+            "LineNumber" : "50"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2012-12-09 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2012-12-09 00:00:00.000",
+            "LineDesignation" : "502",
+            "LineNumber" : "502"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "503",
+            "LineNumber" : "503"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "504",
+            "LineNumber" : "504"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "505",
+            "LineNumber" : "505"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "506",
+            "LineNumber" : "506"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "507",
+            "LineNumber" : "507"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "508",
+            "LineNumber" : "508"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "509",
+            "LineNumber" : "509"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2022-03-31 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2022-03-31 00:00:00.000",
+            "LineDesignation" : "511",
+            "LineNumber" : "511"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2009-08-17 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2009-08-17 00:00:00.000",
+            "LineDesignation" : "512",
+            "LineNumber" : "512"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "513",
+            "LineNumber" : "513"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "514",
+            "LineNumber" : "514"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "515",
+            "LineNumber" : "515"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "516",
+            "LineNumber" : "516"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "517",
+            "LineNumber" : "517"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "518",
+            "LineNumber" : "518"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "520",
+            "LineNumber" : "520"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "522",
+            "LineNumber" : "522"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "523",
+            "LineNumber" : "523"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "524",
+            "LineNumber" : "524"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "525",
+            "LineNumber" : "525"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "526",
+            "LineNumber" : "526"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "527",
+            "LineNumber" : "527"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-07-18 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-07-18 00:00:00.000",
+            "LineDesignation" : "528",
+            "LineNumber" : "528"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "529",
+            "LineNumber" : "529"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "53",
+            "LineNumber" : "53"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "531",
+            "LineNumber" : "531"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "532",
+            "LineNumber" : "532"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "533",
+            "LineNumber" : "533"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "534",
+            "LineNumber" : "534"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "535",
+            "LineNumber" : "535"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "536",
+            "LineNumber" : "536"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "537",
+            "LineNumber" : "537"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "538",
+            "LineNumber" : "538"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "539",
+            "LineNumber" : "539"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2015-06-19 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2015-06-19 00:00:00.000",
+            "LineDesignation" : "54",
+            "LineNumber" : "54"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "540",
+            "LineNumber" : "540"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "541",
+            "LineNumber" : "541"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "542",
+            "LineNumber" : "542"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "543",
+            "LineNumber" : "543"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "544",
+            "LineNumber" : "544"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "545",
+            "LineNumber" : "545"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "546",
+            "LineNumber" : "546"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "547",
+            "LineNumber" : "547"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-28 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-28 00:00:00.000",
+            "LineDesignation" : "548",
+            "LineNumber" : "548"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2018-09-27 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2018-09-27 00:00:00.000",
+            "LineDesignation" : "549",
+            "LineNumber" : "549"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "55",
+            "LineNumber" : "55"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2016-10-15 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2016-10-15 00:00:00.000",
+            "LineDesignation" : "550",
+            "LineNumber" : "550"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "552",
+            "LineNumber" : "552"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-12-10 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-12-10 00:00:00.000",
+            "LineDesignation" : "553",
+            "LineNumber" : "553"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "554",
+            "LineNumber" : "554"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "555",
+            "LineNumber" : "555"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "556",
+            "LineNumber" : "556"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "558",
+            "LineNumber" : "558"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "559",
+            "LineNumber" : "559"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "56",
+            "LineNumber" : "56"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "560",
+            "LineNumber" : "560"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "561",
+            "LineNumber" : "561"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "562",
+            "LineNumber" : "562"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-10-04 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-10-04 00:00:00.000",
+            "LineDesignation" : "564",
+            "LineNumber" : "564"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "565",
+            "LineNumber" : "565"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "566",
+            "LineNumber" : "566"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "567",
+            "LineNumber" : "567"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "568",
+            "LineNumber" : "568"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2015-06-19 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2015-06-19 00:00:00.000",
+            "LineDesignation" : "57",
+            "LineNumber" : "57"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "570",
+            "LineNumber" : "570"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "571",
+            "LineNumber" : "571"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "573",
+            "LineNumber" : "573"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "574",
+            "LineNumber" : "574"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "575",
+            "LineNumber" : "575"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "576",
+            "LineNumber" : "576"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "577",
+            "LineNumber" : "577"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2011-05-10 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2011-05-10 00:00:00.000",
+            "LineDesignation" : "579",
+            "LineNumber" : "579"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2015-06-19 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2015-06-19 00:00:00.000",
+            "LineDesignation" : "58",
+            "LineNumber" : "58"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "580",
+            "LineNumber" : "580"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "581",
+            "LineNumber" : "581"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "582",
+            "LineNumber" : "582"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "583",
+            "LineNumber" : "583"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2018-09-20 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2018-09-20 00:00:00.000",
+            "LineDesignation" : "584",
+            "LineNumber" : "584"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "589",
+            "LineNumber" : "589"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "59",
+            "LineNumber" : "59"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2018-10-19 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2018-10-19 00:00:00.000",
+            "LineDesignation" : "590",
+            "LineNumber" : "590"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "591",
+            "LineNumber" : "591"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "592",
+            "LineNumber" : "592"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2009-07-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2009-07-16 00:00:00.000",
+            "LineDesignation" : "593",
+            "LineNumber" : "593"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "595",
+            "LineNumber" : "595"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "597",
+            "LineNumber" : "597"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "598",
+            "LineNumber" : "598"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2016-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2016-10-25 00:00:00.000",
+            "LineDesignation" : "599",
+            "LineNumber" : "599"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-12-10 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-12-10 00:00:00.000",
+            "LineDesignation" : "6",
+            "LineNumber" : "6"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "601",
+            "LineNumber" : "601"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "602",
+            "LineNumber" : "602"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "604",
+            "LineNumber" : "604"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "605",
+            "LineNumber" : "605"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "606",
+            "LineNumber" : "606"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "607",
+            "LineNumber" : "607"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "608",
+            "LineNumber" : "608"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "609",
+            "LineNumber" : "609"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2015-06-19 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2015-06-19 00:00:00.000",
+            "LineDesignation" : "61",
+            "LineNumber" : "61"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "610",
+            "LineNumber" : "610"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "611",
+            "LineNumber" : "611"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2019-10-18 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2019-10-18 00:00:00.000",
+            "LineDesignation" : "612",
+            "LineNumber" : "612"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "613",
+            "LineNumber" : "613"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "614",
+            "LineNumber" : "614"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "615",
+            "LineNumber" : "615"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "616",
+            "LineNumber" : "616"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "617",
+            "LineNumber" : "617"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "618",
+            "LineNumber" : "618"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "619",
+            "LineNumber" : "619"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "620",
+            "LineNumber" : "620"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "621",
+            "LineNumber" : "621"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "622",
+            "LineNumber" : "622"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "623",
+            "LineNumber" : "623"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "624",
+            "LineNumber" : "624"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "625",
+            "LineNumber" : "625"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "626",
+            "LineNumber" : "626"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "627",
+            "LineNumber" : "627"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "628",
+            "LineNumber" : "628"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "629",
+            "LineNumber" : "629"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "630",
+            "LineNumber" : "630"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "631",
+            "LineNumber" : "631"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "632",
+            "LineNumber" : "632"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "633",
+            "LineNumber" : "633"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "634",
+            "LineNumber" : "634"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2010-07-10 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2010-07-10 00:00:00.000",
+            "LineDesignation" : "635",
+            "LineNumber" : "635"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "636",
+            "LineNumber" : "636"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "637",
+            "LineNumber" : "637"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "638",
+            "LineNumber" : "638"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "639",
+            "LineNumber" : "639"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2022-07-07 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2022-07-07 00:00:00.000",
+            "LineDesignation" : "640",
+            "LineNumber" : "640"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "641",
+            "LineNumber" : "641"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "642",
+            "LineNumber" : "642"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "643",
+            "LineNumber" : "643"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-28 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-28 00:00:00.000",
+            "LineDesignation" : "644",
+            "LineNumber" : "644"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "645",
+            "LineNumber" : "645"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "646",
+            "LineNumber" : "646"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "647",
+            "LineNumber" : "647"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "648",
+            "LineNumber" : "648"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "649",
+            "LineNumber" : "649"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "65",
+            "LineNumber" : "65"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-12-10 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-12-10 00:00:00.000",
+            "LineDesignation" : "650",
+            "LineNumber" : "650"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "651",
+            "LineNumber" : "651"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "652",
+            "LineNumber" : "652"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "653",
+            "LineNumber" : "653"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "654",
+            "LineNumber" : "654"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "655",
+            "LineNumber" : "655"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "656",
+            "LineNumber" : "656"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "657",
+            "LineNumber" : "657"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "658",
+            "LineNumber" : "658"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "659",
+            "LineNumber" : "659"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "66",
+            "LineNumber" : "66"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "660",
+            "LineNumber" : "660"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "661",
+            "LineNumber" : "661"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "662",
+            "LineNumber" : "662"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "663",
+            "LineNumber" : "663"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2009-07-11 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2009-07-11 00:00:00.000",
+            "LineDesignation" : "664",
+            "LineNumber" : "664"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "665",
+            "LineNumber" : "665"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "666",
+            "LineNumber" : "666"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "667",
+            "LineNumber" : "667"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "668",
+            "LineNumber" : "668"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2022-07-07 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2022-07-07 00:00:00.000",
+            "LineDesignation" : "669",
+            "LineNumber" : "669"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2015-06-19 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2015-06-19 00:00:00.000",
+            "LineDesignation" : "67",
+            "LineNumber" : "67"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "670",
+            "LineNumber" : "670"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "676",
+            "LineNumber" : "676"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-08-18 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-08-18 00:00:00.000",
+            "LineDesignation" : "677",
+            "LineNumber" : "677"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2016-03-12 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2016-03-12 00:00:00.000",
+            "LineDesignation" : "68",
+            "LineNumber" : "68"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "680",
+            "LineNumber" : "680"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "681",
+            "LineNumber" : "681"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "682",
+            "LineNumber" : "682"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2015-12-08 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2015-12-08 00:00:00.000",
+            "LineDesignation" : "683",
+            "LineNumber" : "683"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "684",
+            "LineNumber" : "684"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-01 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-01 00:00:00.000",
+            "LineDesignation" : "685",
+            "LineNumber" : "685"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2009-07-09 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2009-07-09 00:00:00.000",
+            "LineDesignation" : "686",
+            "LineNumber" : "686"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2010-07-21 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2010-07-21 00:00:00.000",
+            "LineDesignation" : "687",
+            "LineNumber" : "687"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "688",
+            "LineNumber" : "688"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2010-01-28 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2010-01-28 00:00:00.000",
+            "LineDesignation" : "689",
+            "LineNumber" : "689"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "69",
+            "LineNumber" : "69"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "690",
+            "LineNumber" : "690"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "691",
+            "LineNumber" : "691"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "694",
+            "LineNumber" : "694"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "695",
+            "LineNumber" : "695"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2011-06-27 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2011-06-27 00:00:00.000",
+            "LineDesignation" : "696",
+            "LineNumber" : "696"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "697",
+            "LineNumber" : "697"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "698",
+            "LineNumber" : "698"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "699",
+            "LineNumber" : "699"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "702",
+            "LineNumber" : "702"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "703",
+            "LineNumber" : "703"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "704",
+            "LineNumber" : "704"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "705",
+            "LineNumber" : "705"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "706",
+            "LineNumber" : "706"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "707",
+            "LineNumber" : "707"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "708",
+            "LineNumber" : "708"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "709",
+            "LineNumber" : "709"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "71",
+            "LineNumber" : "71"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "710",
+            "LineNumber" : "710"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "711",
+            "LineNumber" : "711"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2021-09-09 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2021-09-09 00:00:00.000",
+            "LineDesignation" : "712",
+            "LineNumber" : "712"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "713",
+            "LineNumber" : "713"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-08-18 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-08-18 00:00:00.000",
+            "LineDesignation" : "714",
+            "LineNumber" : "714"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "715",
+            "LineNumber" : "715"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "716",
+            "LineNumber" : "716"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "717",
+            "LineNumber" : "717"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "718",
+            "LineNumber" : "718"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "719",
+            "LineNumber" : "719"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "72",
+            "LineNumber" : "72"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "721",
+            "LineNumber" : "721"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "722",
+            "LineNumber" : "722"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "723",
+            "LineNumber" : "723"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "725",
+            "LineNumber" : "725"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "726",
+            "LineNumber" : "726"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "727",
+            "LineNumber" : "727"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "729",
+            "LineNumber" : "729"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "73",
+            "LineNumber" : "73"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-09-15 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-09-15 00:00:00.000",
+            "LineDesignation" : "731",
+            "LineNumber" : "731"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-01-28 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-01-28 00:00:00.000",
+            "LineDesignation" : "732",
+            "LineNumber" : "732"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "737",
+            "LineNumber" : "737"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "738",
+            "LineNumber" : "738"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "74",
+            "LineNumber" : "74"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "740",
+            "LineNumber" : "740"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "742",
+            "LineNumber" : "742"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-09-15 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-09-15 00:00:00.000",
+            "LineDesignation" : "743",
+            "LineNumber" : "743"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "744",
+            "LineNumber" : "744"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-28 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-28 00:00:00.000",
+            "LineDesignation" : "745",
+            "LineNumber" : "745"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2022-09-29 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2022-09-29 00:00:00.000",
+            "LineDesignation" : "747",
+            "LineNumber" : "747"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "748",
+            "LineNumber" : "748"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2012-12-09 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2012-12-09 00:00:00.000",
+            "LineDesignation" : "749",
+            "LineNumber" : "749"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2018-05-18 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2018-05-18 00:00:00.000",
+            "LineDesignation" : "75",
+            "LineNumber" : "75"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "750",
+            "LineNumber" : "750"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "751",
+            "LineNumber" : "751"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2012-12-09 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2012-12-09 00:00:00.000",
+            "LineDesignation" : "752",
+            "LineNumber" : "752"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "753",
+            "LineNumber" : "753"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "754",
+            "LineNumber" : "754"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "755",
+            "LineNumber" : "755"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "756",
+            "LineNumber" : "756"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2019-03-01 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2019-03-01 00:00:00.000",
+            "LineDesignation" : "757",
+            "LineNumber" : "757"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2012-12-09 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2012-12-09 00:00:00.000",
+            "LineDesignation" : "758",
+            "LineNumber" : "758"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2012-12-09 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2012-12-09 00:00:00.000",
+            "LineDesignation" : "759",
+            "LineNumber" : "759"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "76",
+            "LineNumber" : "76"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2012-12-09 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2012-12-09 00:00:00.000",
+            "LineDesignation" : "761",
+            "LineNumber" : "761"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "765",
+            "LineNumber" : "765"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "77",
+            "LineNumber" : "77"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2014-12-14 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2014-12-14 00:00:00.000",
+            "LineDesignation" : "776",
+            "LineNumber" : "776"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2022-09-29 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2022-09-29 00:00:00.000",
+            "LineDesignation" : "777",
+            "LineNumber" : "777"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2014-12-14 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2014-12-14 00:00:00.000",
+            "LineDesignation" : "778",
+            "LineNumber" : "778"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "779",
+            "LineNumber" : "779"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "780",
+            "LineNumber" : "780"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "781",
+            "LineNumber" : "781"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "782",
+            "LineNumber" : "782"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "783",
+            "LineNumber" : "783"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "784",
+            "LineNumber" : "784"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-06-15 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-06-15 00:00:00.000",
+            "LineDesignation" : "785",
+            "LineNumber" : "785"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "786",
+            "LineNumber" : "786"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "787",
+            "LineNumber" : "787"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "788",
+            "LineNumber" : "788"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "789",
+            "LineNumber" : "789"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "791",
+            "LineNumber" : "791"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "792",
+            "LineNumber" : "792"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "794",
+            "LineNumber" : "794"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "795",
+            "LineNumber" : "795"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-12-10 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-12-10 00:00:00.000",
+            "LineDesignation" : "796",
+            "LineNumber" : "796"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "797",
+            "LineNumber" : "797"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "798",
+            "LineNumber" : "798"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "801",
+            "LineNumber" : "801"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2015-10-28 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2015-10-28 00:00:00.000",
+            "LineDesignation" : "802",
+            "LineNumber" : "802"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2019-10-22 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2019-10-22 00:00:00.000",
+            "LineDesignation" : "803",
+            "LineNumber" : "803"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2018-10-19 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2018-10-19 00:00:00.000",
+            "LineDesignation" : "804",
+            "LineNumber" : "804"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-10-04 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-10-04 00:00:00.000",
+            "LineDesignation" : "805",
+            "LineNumber" : "805"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "806",
+            "LineNumber" : "806"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "807",
+            "LineNumber" : "807"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-10-04 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-10-04 00:00:00.000",
+            "LineDesignation" : "808",
+            "LineNumber" : "808"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "809",
+            "LineNumber" : "809"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "810",
+            "LineNumber" : "810"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "812",
+            "LineNumber" : "812"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "813",
+            "LineNumber" : "813"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2013-12-15 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2013-12-15 00:00:00.000",
+            "LineDesignation" : "814",
+            "LineNumber" : "814"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "815",
+            "LineNumber" : "815"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "816",
+            "LineNumber" : "816"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2018-10-19 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2018-10-19 00:00:00.000",
+            "LineDesignation" : "817",
+            "LineNumber" : "817"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "818",
+            "LineNumber" : "818"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "819",
+            "LineNumber" : "819"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2015-06-13 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2015-06-13 00:00:00.000",
+            "LineDesignation" : "820",
+            "LineNumber" : "820"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "821",
+            "LineNumber" : "821"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "822",
+            "LineNumber" : "822"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "823",
+            "LineNumber" : "823"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "824",
+            "LineNumber" : "824"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2018-10-19 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2018-10-19 00:00:00.000",
+            "LineDesignation" : "826",
+            "LineNumber" : "826"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "827",
+            "LineNumber" : "827"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "828",
+            "LineNumber" : "828"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "829",
+            "LineNumber" : "829"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "830",
+            "LineNumber" : "830"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "831",
+            "LineNumber" : "831"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2019-06-21 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2019-06-21 00:00:00.000",
+            "LineDesignation" : "832",
+            "LineNumber" : "832"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "833",
+            "LineNumber" : "833"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "834",
+            "LineNumber" : "834"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "835",
+            "LineNumber" : "835"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "836",
+            "LineNumber" : "836"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "837",
+            "LineNumber" : "837"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2019-06-21 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2019-06-21 00:00:00.000",
+            "LineDesignation" : "838",
+            "LineNumber" : "838"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "839",
+            "LineNumber" : "839"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "840",
+            "LineNumber" : "840"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "842",
+            "LineNumber" : "842"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "843",
+            "LineNumber" : "843"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2019-06-21 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2019-06-21 00:00:00.000",
+            "LineDesignation" : "844",
+            "LineNumber" : "844"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "845",
+            "LineNumber" : "845"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "846",
+            "LineNumber" : "846"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "847",
+            "LineNumber" : "847"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "848",
+            "LineNumber" : "848"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "849",
+            "LineNumber" : "849"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "850",
+            "LineNumber" : "850"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "850",
+            "LineNumber" : "850"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "852",
+            "LineNumber" : "852"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "854",
+            "LineNumber" : "854"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "856",
+            "LineNumber" : "856"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "858",
+            "LineNumber" : "858"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "861",
+            "LineNumber" : "861"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2009-03-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2009-03-16 00:00:00.000",
+            "LineDesignation" : "862",
+            "LineNumber" : "862"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "865",
+            "LineNumber" : "865"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "869",
+            "LineNumber" : "869"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "873",
+            "LineNumber" : "873"
+         },
+         {
+            "DefaultTransportMode" : "blåbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "875",
+            "LineNumber" : "875"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "889",
+            "LineNumber" : "889"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "890",
+            "LineNumber" : "890"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "892",
+            "LineNumber" : "892"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "893",
+            "LineNumber" : "893"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2010-08-23 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2010-08-23 00:00:00.000",
+            "LineDesignation" : "898",
+            "LineNumber" : "898"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "901",
+            "LineNumber" : "901"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "903",
+            "LineNumber" : "903"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "904",
+            "LineNumber" : "904"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "905",
+            "LineNumber" : "905"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-10-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-10-16 00:00:00.000",
+            "LineDesignation" : "906",
+            "LineNumber" : "906"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-10-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-10-16 00:00:00.000",
+            "LineDesignation" : "907",
+            "LineNumber" : "907"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "908",
+            "LineNumber" : "908"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "909",
+            "LineNumber" : "909"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "91",
+            "LineNumber" : "91"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "12",
+            "LineNumber" : "912"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "13",
+            "LineNumber" : "913"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-09-20 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-09-20 00:00:00.000",
+            "LineDesignation" : "914",
+            "LineNumber" : "914"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "17",
+            "LineNumber" : "917"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "18",
+            "LineNumber" : "918"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "19",
+            "LineNumber" : "919"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "21",
+            "LineNumber" : "920"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2014-08-18 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2014-08-18 00:00:00.000",
+            "LineDesignation" : "921",
+            "LineNumber" : "921"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2014-08-18 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2014-08-18 00:00:00.000",
+            "LineDesignation" : "923",
+            "LineNumber" : "923"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "14",
+            "LineNumber" : "924"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "25",
+            "LineNumber" : "925"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "26",
+            "LineNumber" : "926"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "27",
+            "LineNumber" : "927"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "28",
+            "LineNumber" : "928"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "29",
+            "LineNumber" : "929"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2015-06-19 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2015-06-19 00:00:00.000",
+            "LineDesignation" : "93",
+            "LineNumber" : "93"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "30",
+            "LineNumber" : "930"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2020-11-28 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2020-11-28 00:00:00.000",
+            "LineDesignation" : "31",
+            "LineNumber" : "931"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2022-02-22 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2022-02-22 00:00:00.000",
+            "LineDesignation" : "30",
+            "LineNumber" : "932"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "35",
+            "LineNumber" : "935"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "36",
+            "LineNumber" : "936"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-10-25 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-10-25 00:00:00.000",
+            "LineDesignation" : "37",
+            "LineNumber" : "937"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "94",
+            "LineNumber" : "94"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-05-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-05-16 00:00:00.000",
+            "LineDesignation" : "28",
+            "LineNumber" : "944"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-05-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-05-16 00:00:00.000",
+            "LineDesignation" : "27",
+            "LineNumber" : "945"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-05-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-05-16 00:00:00.000",
+            "LineDesignation" : "27",
+            "LineNumber" : "946"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-05-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-05-16 00:00:00.000",
+            "LineDesignation" : "27",
+            "LineNumber" : "947"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "951",
+            "LineNumber" : "951"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "952",
+            "LineNumber" : "952"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2016-08-22 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2016-08-22 00:00:00.000",
+            "LineDesignation" : "953",
+            "LineNumber" : "953"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "955",
+            "LineNumber" : "955"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-05-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-05-16 00:00:00.000",
+            "LineDesignation" : "28",
+            "LineNumber" : "956"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-05-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-05-16 00:00:00.000",
+            "LineDesignation" : "25",
+            "LineNumber" : "957"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-05-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-05-16 00:00:00.000",
+            "LineDesignation" : "25",
+            "LineNumber" : "958"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "959",
+            "LineNumber" : "959"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "96",
+            "LineNumber" : "96"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2022-11-05 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2022-11-05 00:00:00.000",
+            "LineDesignation" : "961",
+            "LineNumber" : "961"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2013-11-22 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2013-11-22 00:00:00.000",
+            "LineDesignation" : "27",
+            "LineNumber" : "962"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2013-11-22 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2013-11-22 00:00:00.000",
+            "LineDesignation" : "27",
+            "LineNumber" : "963"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2013-11-22 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2013-11-22 00:00:00.000",
+            "LineDesignation" : "28",
+            "LineNumber" : "964"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-05-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-05-16 00:00:00.000",
+            "LineDesignation" : "25",
+            "LineNumber" : "965"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-05-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-05-16 00:00:00.000",
+            "LineDesignation" : "26",
+            "LineNumber" : "966"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2017-05-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2017-05-16 00:00:00.000",
+            "LineDesignation" : "26",
+            "LineNumber" : "967"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2022-11-05 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2022-11-05 00:00:00.000",
+            "LineDesignation" : "968",
+            "LineNumber" : "968"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-11-13 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-11-13 00:00:00.000",
+            "LineDesignation" : "968",
+            "LineNumber" : "968"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2022-11-05 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2022-11-05 00:00:00.000",
+            "LineDesignation" : "969",
+            "LineNumber" : "969"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2013-09-14 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2013-09-14 00:00:00.000",
+            "LineDesignation" : "7",
+            "LineNumber" : "970"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-09-10 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-09-10 00:00:00.000",
+            "LineDesignation" : "971",
+            "LineNumber" : "971"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-09-10 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-09-10 00:00:00.000",
+            "LineDesignation" : "972",
+            "LineNumber" : "972"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2016-08-22 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2016-08-22 00:00:00.000",
+            "LineDesignation" : "978",
+            "LineNumber" : "978"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2016-08-22 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2016-08-22 00:00:00.000",
+            "LineDesignation" : "979",
+            "LineNumber" : "979"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "LT502",
+            "LineNumber" : "980"
+         },
+         {
+            "DefaultTransportMode" : "Närtrafiken",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2015-06-19 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2015-06-19 00:00:00.000",
+            "LineDesignation" : "981",
+            "LineNumber" : "981"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2013-02-16 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2013-02-16 00:00:00.000",
+            "LineDesignation" : "40",
+            "LineNumber" : "982"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2009-09-11 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2009-09-11 00:00:00.000",
+            "LineDesignation" : "48",
+            "LineNumber" : "983"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "43",
+            "LineNumber" : "986"
+         },
+         {
+            "DefaultTransportMode" : "Ersättningsbuss",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-11-29 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-11-29 00:00:00.000",
+            "LineDesignation" : "41",
+            "LineNumber" : "987"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2008-08-18 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2008-08-18 00:00:00.000",
+            "LineDesignation" : "UL857",
+            "LineNumber" : "990"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "UL803",
+            "LineNumber" : "991"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "UL807",
+            "LineNumber" : "992"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "UL808",
+            "LineNumber" : "993"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "UL806",
+            "LineNumber" : "994"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "UL805",
+            "LineNumber" : "995"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "UL183",
+            "LineNumber" : "996"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2010-09-09 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2010-09-09 00:00:00.000",
+            "LineDesignation" : "UL801",
+            "LineNumber" : "997"
+         },
+         {
+            "DefaultTransportMode" : "",
+            "DefaultTransportModeCode" : "BUS",
+            "ExistsFromDate" : "2007-08-24 00:00:00.000",
+            "LastModifiedUtcDateTime" : "2007-08-24 00:00:00.000",
+            "LineDesignation" : "UL870",
+            "LineNumber" : "998"
+         }
+      ],
+      "Type" : "Line",
+      "Version" : "2023-01-15 00:07"
+   },
+   "StatusCode" : 0
+}
