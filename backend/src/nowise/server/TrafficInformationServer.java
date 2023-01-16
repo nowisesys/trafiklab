@@ -12,6 +12,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import nowise.remote.DataService;
 import nowise.remote.data.FileDataProvider;
+import nowise.remote.data.HttpDataProvider;
 import org.json.JSONObject;
 
 public class TrafficInformationServer {
@@ -53,7 +54,12 @@ class RequestHandler implements HttpHandler {
     public void handle(HttpExchange exchange) throws IOException {
         try {
             DataService service = new DataService();
-            service.setDataProvider(new FileDataProvider());
+            
+            if (isCaching()) {
+                service.setDataProvider(new FileDataProvider());
+            } else {
+                service.setDataProvider(new HttpDataProvider());
+            }
 
             handle(exchange, service);
         } catch (IOException ex) {
@@ -72,6 +78,10 @@ class RequestHandler implements HttpHandler {
             stream.write(response);
             stream.flush();
         }
+    }
+
+    private boolean isCaching() {
+        return true;
     }
 
 }
