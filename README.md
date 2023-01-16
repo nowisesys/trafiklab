@@ -4,12 +4,7 @@ Display top 10 bus lines with most traffic stops in Stockholm
 
 ## Backend
 
-Tested with OpenJDK 17. Server listens on localhost port 8081 by default, pass arguments for custom address/port:
-
-```bash
-java nowise.Backend
-java nowise.Backend 192.168.68.53 8082
-```
+Developed using Apache Netbeans 16 and tested with OpenJDK 17. 
 
 ### Libraries
 
@@ -19,6 +14,15 @@ Requires the org.json library that can be downloaded from https://mvnrepository.
 
 ```bash
 ant -f backend -Dnb.internal.action.name=rebuild clean jar
+```
+
+### Running
+
+Run server from within the `trafiklab/backend` directory. Server listens on localhost port 8081 by default, pass arguments for custom address/port:
+
+```bash
+java -jar dist/backend.jar 
+java -jar dist/backend.jar 192.168.68.53 9082
 ```
 
 ## Frontend
