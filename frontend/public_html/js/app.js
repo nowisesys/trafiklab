@@ -21,6 +21,7 @@ async function init()
                     const line = json[index];
                     const item = document.createElement("li");
 
+                    item.style.cursor = "pointer";
                     item.innerHTML =
                             "<span>Linje " + line.number + "</span>" +
                             "<span class=\"w3-badge w3-indigo w3-margin-left\">" + line.stops.length + "</span>";
@@ -35,6 +36,8 @@ async function init()
                             const item = document.createElement("li");
 
                             item.innerHTML = stop.stopPointName;
+                            item.id = stop.stopPointNumber;
+                            
                             stopList.appendChild(item);
                         }
                     });
