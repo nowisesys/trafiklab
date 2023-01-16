@@ -9,10 +9,6 @@ public class Backend {
 
         TrafficInformationServer server;
         
-        for(String arg: args) {
-            System.out.println(arg);
-        }
-        
         if (args.length > 1) {
             String addr = args[0];
             int port = Integer.parseInt(args[1]);
