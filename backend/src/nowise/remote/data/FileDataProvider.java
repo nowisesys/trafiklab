@@ -38,6 +38,6 @@ public class FileDataProvider implements DataProvider {
     }
 
     private String getRootPath() {
-        return new File(".").getAbsolutePath() + "../../docs";
+        return new File("docs").getAbsolutePath();
     }
 }
