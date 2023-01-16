@@ -20,3 +20,12 @@ Requires the org.json library that can be downloaded from https://mvnrepository.
 ```bash
 ant -f backend -Dnb.internal.action.name=rebuild clean jar
 ```
+
+## Frontend
+
+Serve application from within the `trafiklab/frontend/public_html`
+directory. For example:
+
+```bash
+php -S localhost:8082
+```
