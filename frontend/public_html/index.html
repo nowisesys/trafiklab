@@ -11,22 +11,21 @@
         <div class="w3-blue w3-padding">            
             <h1>Trafiklab - Stockholms lokaltrafik (buss)</h1>
         </div>
-        <aside id="list" class="w3-quarter" style="display: none">
-            <div class="w3-padding">
-                <h3>Top tio</h3>
-                <ul class="w3-ul">
-                    <li>Test 1</li>
-                    <li>Test 2</li>
-                    <li>Test 3</li>
-                </ul>
+        
+        <aside id="line-sect" class="w3-quarter" style="display: none">
+            <div class="w3-padding w3-center">
+                <h3>Linjer med flest hållplatser</h3>
+                <ul id="line-list" class="w3-ul"></ul>
             </div>            
         </aside>
+        
         <main class="w3-threequarter">
             <div class="w3-padding w3-center">
-                <div id="stop" style="display: none">
-                    <h3>Hållplatser</h3>
+                <div id="stop-sect" style="display: none">
+                    <h3 id="stop-head">Hållplatser</h3>
+                    <ul id="stop-list" class="w3-ul"></ul>
                 </div>
-                <div id="info">
+                <div id="info-sect">
                     <h3>Top tio listan</h3>
                     <div>Presenterar en lista med busslinjer med flest antal hållplatser.</div>
                     <button id="update" class="w3-margin w3-button w3-large w3-green">Hämta</button>
