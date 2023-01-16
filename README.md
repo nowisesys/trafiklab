@@ -1,6 +1,6 @@
 # trafiklab
 
-Display top 10 bus lines with most traffic stops in Stockholm
+Display top 10 bus lines having largest number of route stops in Stockholm local area traffic.
 
 ## Backend
 
