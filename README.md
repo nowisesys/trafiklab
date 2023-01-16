@@ -10,3 +10,13 @@ Tested with OpenJDK 17. Server started without argument will listen on localhost
 java nowise.Backend
 java nowise.Backend 192.168.68.53 8082
 ```
+
+### libraries
+
+Requires the org.json library that can be downloaded from https://mvnrepository.com/artifact/org.json/json/20220924.
+
+### building
+
+```bash
+ant -f backend -Dnb.internal.action.name=rebuild clean jar
+```
