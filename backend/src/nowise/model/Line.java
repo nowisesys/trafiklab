@@ -16,11 +16,11 @@ public class Line {
         return number;
     }
     
-    void addStop(Stop stop) {
+    public void addStop(Stop stop) {
         stops.add(stop);
     }
 
-    List<Stop> getStops() {
+    public List<Stop> getStops() {
         return stops;
     }
 }
