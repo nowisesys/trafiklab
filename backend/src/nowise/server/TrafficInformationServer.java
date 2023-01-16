@@ -72,7 +72,9 @@ class RequestHandler implements HttpHandler {
 
             JSONObject json = new JSONObject(service.getLines());
             byte[] response = json.toString().getBytes();
-
+            
+            exchange.getResponseHeaders().set("Access-Control-Allow-Origin", "*");
+            exchange.getResponseHeaders().set("Content-type", "application/json");
             exchange.sendResponseHeaders(200, response.length);
 
             stream.write(response);
