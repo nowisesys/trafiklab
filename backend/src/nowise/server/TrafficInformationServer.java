@@ -4,9 +4,15 @@ import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpServer;
 import java.io.IOException;
+import java.io.OutputStream;
 import java.net.InetSocketAddress;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import nowise.remote.DataService;
+import nowise.remote.data.FileDataProvider;
+import org.json.JSONObject;
 
 public class TrafficInformationServer {
 
@@ -32,7 +38,7 @@ public class TrafficInformationServer {
         server.createContext("/", new RequestHandler());
         server.setExecutor(threadPoolExecutor);
         server.start();
-        
+
         System.out.println("Listening on " + address);
     }
 
@@ -44,8 +50,28 @@ public class TrafficInformationServer {
 class RequestHandler implements HttpHandler {
 
     @Override
-    public void handle(HttpExchange he) throws IOException {
-        throw new UnsupportedOperationException("Not supported yet.");
+    public void handle(HttpExchange exchange) throws IOException {
+        try {
+            DataService service = new DataService();
+            service.setDataProvider(new FileDataProvider());
+
+            handle(exchange, service);
+        } catch (IOException ex) {
+            Logger.getLogger(RequestHandler.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+
+    private void handle(HttpExchange exchange, DataService service) throws IOException {
+        try (OutputStream stream = exchange.getResponseBody()) {
+
+            JSONObject json = new JSONObject(service.getLines());
+            byte[] response = json.toString().getBytes();
+
+            exchange.sendResponseHeaders(200, response.length);
+
+            stream.write(response);
+            stream.flush();
+        }
     }
 
 }
