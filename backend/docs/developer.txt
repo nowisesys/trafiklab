@@ -1,15 +1,28 @@
-** Filer:
+** Files:
 
-    jour.json: innehåller alla linjer/hållplatser
-    stop.json: extra information om alla hållplatser
+    jour.json: contains all lines/route stops.
+    stop.json: extra information on route stops.
 
-** Relation:
+** Relations:
 
     jour.JourneyPatternPointNumber -> stop.StopPointNumber
 
 ** Packages:
 
-    nowise.model:   JSON bindning
+    nowise.model:   JSON bindnings
     nowise.server:  HTTP server
-    nowise.remote:  Proxy mot trafiklab
+    nowise.remote:  Proxy against trafiklab
 
+** Notes:
+
+    1.  In a real-world scenario, the HTTP request should be done in
+        parallel using async requests.
+
+    2.  Use local cached files for development. In production this 
+        should also be done with a cron job for updates.
+
+        Modify this method to enable local cache:
+
+            private boolean isCaching() {
+                return false;
+            }
