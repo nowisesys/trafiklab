@@ -27,9 +27,15 @@ async function init()
                             "<span class=\"w3-badge w3-indigo w3-margin-left\">" + line.stops.length + "</span>";
 
                     item.addEventListener("click", () => {
+                        if (stopSect.dataset.index === index) {
+                            stopSect.style.display = stopSect.style.display === "none" ? "" : "none";
+                            return;
+                        }
+
                         stopHead.innerHTML = "Hållplatser (Linje " + index + ")";
                         stopList.innerHTML = "";
                         stopSect.style.display = "";
+                        stopSect.dataset.index = index;
 
                         for (const index in line.stops) {
                             const stop = line.stops[index];
@@ -37,7 +43,7 @@ async function init()
 
                             item.innerHTML = stop.stopPointName;
                             item.id = stop.stopPointNumber;
-                            
+
                             stopList.appendChild(item);
                         }
                     });
