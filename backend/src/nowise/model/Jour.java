@@ -5,7 +5,7 @@ public class Jour {
     private final String journeyPatternPointNumber;
     private final String lineNumber;
     
-    Jour(String journeyPatternPointNumber, String lineNumber) {
+    public Jour(String journeyPatternPointNumber, String lineNumber) {
         this.journeyPatternPointNumber = journeyPatternPointNumber;
         this.lineNumber = lineNumber;
     }
