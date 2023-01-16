@@ -81,7 +81,7 @@ class RequestHandler implements HttpHandler {
     }
 
     private boolean isCaching() {
-        return true;
+        return false;
     }
 
 }
