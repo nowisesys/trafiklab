@@ -9,8 +9,8 @@ async function update() {
     const stopList = document.getElementById("stop-list");
     const stopHead = document.getElementById("stop-head");
 
-    errorBox.style.display = "none";
-    infoDisp.style.display = "";
+    errorBox.style.visibility = "hidden";
+    infoDisp.style.visibility = "visible";
     infoDisp.innerHTML = "Väntar på data från servern...";
 
     try {
@@ -58,9 +58,9 @@ async function update() {
         lineSect.style.display = "";
     } catch (e) {
         errorBox.innerHTML = "Gick inte att hämta data (" + e.message + ")";
-        errorBox.style.display = "";
+        errorBox.style.visibility = "visible";
     } finally {
-        infoDisp.style.display = "none";
+        infoDisp.style.visibility = "hidden";
     }
 }
 
