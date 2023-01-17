@@ -4,6 +4,7 @@ async function init()
             .addEventListener("click", async () => {
 
                 const errorBox = document.getElementById("error-box");
+                const infoDisp = document.getElementById("info-disp");
 
                 const lineSect = document.getElementById("line-sect");
                 const lineList = document.getElementById("line-list");
@@ -13,6 +14,8 @@ async function init()
                 const stopHead = document.getElementById("stop-head");
 
                 errorBox.style.display = "none";
+                infoDisp.style.display = "";
+                infoDisp.innerHTML = "Väntar på data från servern...";
 
                 try {
                     const resp = await fetch("http://localhost:8081/", {
@@ -60,6 +63,8 @@ async function init()
                 } catch (e) {
                     errorBox.innerHTML = "Gick inte att hämta data (" + e.message + ")";
                     errorBox.style.display = "";
+                } finally {
+                    infoDisp.style.display = "none";
                 }
             });
 }
